@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-06T10:46:18.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="FNMsNAYRGqTrfYPKBSA6" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-06T10:48:56.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QjVDs5gKibjz_ZWzuN1n" version="22.1.16" type="github">
   <diagram name="Page-1" id="JOEXMZXgU_PxQnjJMwRq">
     <mxGraphModel dx="2750" dy="1630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -247,6 +247,18 @@
         </mxCell>
         <mxCell id="LNoz9r7LhRh53aWZ0VOm-74" value="Upload CSV File" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="464.81" y="540" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNoz9r7LhRh53aWZ0VOm-75" value="Verify &lt;br&gt;Matriculation Numbers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="449.81" y="625" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LNoz9r7LhRh53aWZ0VOm-76" value="Generate &lt;br&gt;Passwords" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="479.81" y="715" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LNoz9r7LhRh53aWZ0VOm-77" value="Send Emails" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="474.81" y="805" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNoz9r7LhRh53aWZ0VOm-78" value="Confirm&lt;br&gt;&amp;nbsp;Record Creation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="464.81" y="890" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
